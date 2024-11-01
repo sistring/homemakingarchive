@@ -1,6 +1,6 @@
 ---
 title: Collection History
-layout: about
+layout: default
 permalink: /history.html
 # include CollectionBuilder info at bottom
 credits: true
