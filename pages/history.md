@@ -10,12 +10,9 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
 
-## About CollectionBuilder-Sheets
+## Building the Jewish Community in Kansas
 
-This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages. Testing to see if this changes the page. 
-
-Using CB-Sheets, it is possible to use a live Google Sheets spreadsheet for your collection metadata, allowing you to see the outcome of metadata edits update immediately.
-This enables active collaboration to prototype collections with minimal set up.
+This exhibit explores the community building efforts of Jewish Kansans from the early 1900s to the present day. By identifying employment opportunities and developing Kosher foodways, Jewish Kansans have fostered relationships of mutual aid for their local communities. Various social organizations have formed out of efforts to create safe places for Jewish cultural expression in rural Kansas.  
 
 <button class="btn btn-lg btn-success" data-bs-toggle="modal" data-bs-target="#cbSetUpModal">
     <svg class="bi icon-sprite" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
@@ -26,19 +23,17 @@ This enables active collaboration to prototype collections with minimal set up.
 </button>
 {:.text-center}
 
-## Create your own Metadata
+## Moving to the Midwest
 
-To create metadata compatible with this CollectionBuilder-Sheets instance the best way to get started is to make of copy of our template in Google Drive:
+Jewish immigration to Kansas began as early as the 1850s when the first Jewish cemeteries appeared on the Kansas landscape, followed by congregations and social organizations. Some Jewish immigrants came to Kansas after being pushed away from other locations due to antisemitism, lack of community support, and lack of access to resources. Other Jewish people came to Kansas to follow education and employment opportunities. 
 
 [CollectionBuilder Metadata Template](https://docs.google.com/spreadsheets/d/1Uv9ytll0hysMOH1j-VL1lZx6PWvc1zf3L35sK_4IuzI/copy?usp=sharing){:.btn .btn-outline-primary target="_blank" rel="noopener"}
 {:.text-center}
 
-Alternatively, you can [download the template CSV]({{ '/assets/metadata-template.csv' | relative_url }}) and work on your local machine.
-We suggest editing your CSV using [LibreOffice](https://www.libreoffice.org/) Calc, [OpenRefine](https://openrefine.org/), or Google Sheets (and do not suggest using Excel, since Excel's CSV output is not correctly formatted).
+## Yiddish Map of the U.S.
+First-generation refugees are often forced to navigate foreign spaces in unfamiliar languages. Nearly all of the two-million Jewish people who immigrated from Eastern Europe between 1880 and 1924 spoke Yiddish. This map from the Industrial Removal Office provides essential information about U.S. states and cities for new Americans making their way across the country.
 
-Describe your items in your copy of the template, following the [Metadata Guidelines]({{ '/metadata.html' | relative_url }}). 
-
-Once you have items added you can test your metadata by clicking the "Change the Metadata" button above.
+Industrial Removal Office, circa 1920s 
 
 ## Learn More
 
