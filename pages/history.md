@@ -35,10 +35,9 @@ First-generation refugees are often forced to navigate foreign spaces in unfamil
 
 Industrial Removal Office, circa 1920s 
 
-## Learn More
+## IRO Agreement Form
+In 1901, the the Industrial Removal Office (IRO) was created with the purpose of placing Jewish immigrants in Midwestern towns. Many American-born Jews believed that the density of the Eastern European Jewish population in East Coast cities was causing a rise in antisemitism. One response was to disperse Jews to the heartland. 
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+Industrial Removal Office, circa 1900
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-Featured image by [JJ Ying on Unsplash](https://unsplash.com/photos/WmnsGyaFnCQ).
 ---
