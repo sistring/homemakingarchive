@@ -1,5 +1,5 @@
+---
 title: Highlights
-layout: page
+layout: About
 permalink: /highlights.html
 ---
-
