@@ -1,5 +1,5 @@
 ---
 title: Highlights
-layout: About
+layout: page-full-width
 permalink: /highlights.html
 ---
