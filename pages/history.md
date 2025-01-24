@@ -7,7 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-    {% include index/carousel.html title="Sample Items" height=500 %}
+{% include index/carousel.html title="Sample Items" height=450 %}
 
 ## Building the Jewish Community in Kansas
 
